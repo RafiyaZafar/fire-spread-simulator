@@ -15,4 +15,23 @@ How to Play
 
 Demo  
 Check out the live version of the game:  
-[Fire Spread Simulator](https://fire-spread-simulator.netlify.app/)
+[Fire Spread Simulator](https://fire-spread-simulator.netlify.app/)  
+
+Installation  
+1. Clone the repository:  
+git clone https://github.com/RafiyaZafar/fire-spread-simulator.git  
+2. Navigate to the project directory:  
+cd fire-spread-simulator  
+3. Install dependencies:    
+npm install  
+4. Start the development server:  
+npm start
+
+
+[Watch the demo video](https://github.com/RafiyaZafar/fire-spread-simulator/blob/main/assets/demo.mp4)
+
+
+Technologies Used  
+React.js  
+CSS  
+Netlify for deployment  
