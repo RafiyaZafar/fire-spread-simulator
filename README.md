@@ -4,13 +4,13 @@ Fire Spread Simulator is a React-based simulation game that visualizes the sprea
 
 Features  
 -Dynamic simulation of fire spread  
--Customizable grid size and simulation speed
--Color-changing heading effect to enhance visual appeal
+-Customizable grid size and simulation speed  
+-Color-changing heading effect to enhance visual appeal  
 
-How to Play
--Click the Start button to begin the simulation.
+How to Play  
+-Click the Start button to begin the simulation.  
 -The fire will spread through the trees, turning them into ashes.
--Adjust the settings to see how different conditions affect the fire's spread.
+-Adjust the settings to see how different conditions affect the fire's spread.  
 
 Demo
 Check out the live version of the game:  
