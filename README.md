@@ -1,23 +1,23 @@
 # fire-spread-simulator
 
-Description  
+###Description  
 Fire Spread Simulator is a React-based simulation game that visualizes the spread of fire across a forest. The game uses a grid where cells can be in one of three states: tree, burning, or empty. The simulation shows how fire spreads from burning trees to adjacent trees.
 
-Features  
+###Features  
 -Dynamic simulation of fire spread  
 -Customizable grid size and simulation speed  
 -Color-changing heading effect to enhance visual appeal  
 
-How to Play  
+###How to Play  
 -Click the Start button to begin the simulation.  
 -The fire will spread through the trees, turning them into ashes.  
 -Adjust the settings to see how different conditions affect the fire's spread.  
 
-Demo  
+###Demo  
 Check out the live version of the game:  
 [Fire Spread Simulator](https://fire-spread-simulator.netlify.app/)  
 
-Installation  
+###Installation  
 1. Clone the repository:  
 git clone https://github.com/RafiyaZafar/fire-spread-simulator.git  
 2. Navigate to the project directory:  
@@ -29,12 +29,9 @@ npm start
 
 
 ### Demo Video
-<video width="640" height="480" controls>
-  <source src="[https://your-video-hosting-platform.com/path-to-your-video.mp4](https://vimeo.com/1002208415?share=copy)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-Technologies Used  
+
+###Technologies Used  
 React.js  
 CSS  
 Netlify for deployment  
