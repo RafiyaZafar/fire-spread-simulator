@@ -14,4 +14,4 @@ How to Play
 
 Demo
 Check out the live version of the game:  
-[https://your-project-name.netlify.app](https://fire-spread-simulator.netlify.app/)
+[Fire Spread Simulator](https://fire-spread-simulator.netlify.app/)
